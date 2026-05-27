@@ -2,7 +2,7 @@
   "sections": {
     "AI & Tech": ["NVDA", "MSFT", "GOOGL", "META"],
     "US Stocks": ["AAPL", "TSLA", "AMZN"],
-    "My Picks": ["RKLB", "JOBY"]
+    "My Picks": ["SPOT", "UBER"]
   },
   "indices": ["^GSPC", "^IXIC", "^DJI"],
   "news_feeds": [
