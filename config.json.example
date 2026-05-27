@@ -1,0 +1,13 @@
+{
+  "sections": {
+    "AI & Tech": ["NVDA", "MSFT", "GOOGL", "META"],
+    "US Stocks": ["AAPL", "TSLA", "AMZN"],
+    "My Picks": ["RKLB", "JOBY"]
+  },
+  "indices": ["^GSPC", "^IXIC", "^DJI"],
+  "news_feeds": [
+    {"name": "Reuters Business", "url": "https://feeds.reuters.com/reuters/businessNews"},
+    {"name": "BBC World",        "url": "http://feeds.bbci.co.uk/news/world/rss.xml"},
+    {"name": "CNBC",             "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html"}
+  ]
+}
